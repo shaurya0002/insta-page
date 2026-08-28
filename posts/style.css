@@ -45,3 +45,37 @@ body{
     width: 100%;
     max-width: 935px;
 }
+
+/*PROFILE HEADER*/
+
+.profile-header{
+    display: flex;
+    gap: 60px;
+}
+
+.avatar{
+    width: 150px;
+    height: 150px;
+}
+
+.profile-info{
+    display: flex;
+    flex-direction: column;
+    gap: 18px;
+}
+
+.username-row{
+    display: flex;
+    gap: 18px;
+    align-items: center;
+}
+
+.profile-stats{
+    display: flex;
+    gap: 18px;
+}
+
+.action-buttons{
+    display: flex;
+    gap: 18px;
+}
