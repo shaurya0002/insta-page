@@ -105,3 +105,24 @@ body{
     justify-content: center;
     gap:60px;
 }
+
+.tab img{
+    width: 18px;
+    height: 18px;
+}
+
+/*EMPTY STATE*/
+
+.empty-state{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    gap: 16px;
+    padding: 100px 0px;
+}
+
+.camera-icon{
+    width: 60px;
+    height: 60px;
+}
